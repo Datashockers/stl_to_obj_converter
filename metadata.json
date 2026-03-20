@@ -1,0 +1,5 @@
+{
+  "name": "STL to Editable CAD Converter",
+  "description": "Convert STL mesh files to editable OBJ formats for 3D modeling and CAD software, with a built-in 3D preview.",
+  "requestFramePermissions": []
+}
